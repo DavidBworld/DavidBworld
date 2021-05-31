@@ -3,15 +3,23 @@
 
 <h3> 👨🏻‍💻 &nbsp;A propos de moi </h3>
 
-Je suis un developpeur web, basé en France, je m'intéresse plus particulièrement aux sites E-commerce, SEO, réseaux sociaux !
 
-J'aime travailler en équipe autour de projets diverses, et atteindre mes objectifs, c'est mon moteur pour réussir, découvrir et me perfectionner...
 
-![code](https://user-images.githubusercontent.com/73825512/120194714-3fcae100-c21e-11eb-8ec8-a051f8d919f4.gif | width="200" height="400")
+
+
+<img src="https://user-images.githubusercontent.com/73825512/120194714-3fcae100-c21e-11eb-8ec8-a051f8d919f4.gif" width="250" height="250" align=left />
+
+Je suis un developpeur web, basé en France, je m'intéresse plus particulièrement aux sites E-commerce, SEO, réseaux sociaux ! <br>
+
+J'aime travailler en équipe autour de projets diverses, et atteindre mes objectifs, c'est mon moteur pour réussir, découvrir et me perfectionner...<br>
 
 Pour éviter les longs discours, je préfère résumer mon parcours profesionnel en empruntant une citation de Francis Bacon
-"Dans toute entreprise, la persévérance est la clé du succès."
 
+"Dans toute entreprise, la persévérance est la clé du succès."
+<br>
+<br>
+<br>
+<br>
 Pour découvrir mon parcours, c'est par ici :arrow_down:
 
 - 🤔 &nbsp; Explorer de nouvelles technologies et développer des solutions logicielles.
