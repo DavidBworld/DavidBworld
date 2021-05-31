@@ -47,7 +47,7 @@ Pour découvrir mon parcours, c'est par ici :arrow_down:
 <h3> 🤝🏻 &nbsp; En savoir plus </h3>
 
 <p align="center">
-<a href="https://davidbworld.github.io/visit_card/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/david-boilon-07a84913b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:boilon.david@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://davidbworld.github.io/visit_card/"><img alt="Website" src="https://img.shields.io/badge/Website-www.davidbworld.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/david-boilon-07a84913b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Boilon_david%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:boilon.david@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-boilon.david@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
